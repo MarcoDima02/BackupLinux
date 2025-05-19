@@ -1,4 +1,4 @@
-# Schedulazione backup
+# Schedulazione backup linux
 
 ## 🧾 Descrizione
 Questo script Bash è stato creato per automatizzare il backup quotidiano della directory home dell'utente selezionato, garantendo così la sicurezza dei dati personali in caso di malfunzionamenti, cancellazioni accidentali o problemi hardware.
